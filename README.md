@@ -1,5 +1,6 @@
-![University of Toronto](<images/University of Toronto.jpg>)
 
+
+![University of Toronto](images/UofT.jpg)
 
 ## Hello 👋
 
