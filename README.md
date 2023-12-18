@@ -1,7 +1,7 @@
 ![University of Toronto](<images/University of Toronto.jpg>)
 
 
-👋
+## Hello 👋
 
 ## Welcome to Data Science with Jalees
 
