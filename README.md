@@ -3,7 +3,7 @@
 
 ## Hello 👋
 
-## Welcome to Data Science with Jalees Moeen
+## Welcome to Data Science with Jalees
 
 Meet up with myself Jalees Moeen, and I'm delighted to share my journey with you. After exploring various fields, I have found my true passion in the world of data. Over the past few months have been deeply immersed in this exciting field, expanding my knowledge by learning new tools and techniques such as Python, SQL, and Machine Learning. I am enrolled in University of Toronto Data Analytics Bootcamp, where I am  gaining hands-on experience and building projects that showcase my skills and I cannot wait to see where this journey takes me. I'm excited to share my progress with you, and thank you for stopping by my page.
 
