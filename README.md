@@ -28,3 +28,6 @@ Discover some of the tools and technologies I've delved into on my data journey:
 - Spreadsheet Wizardry(Excel, Visual Basic)
 
 
+[![Jalees Moeen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaleesMoeen)](https://github.com/JaleesMoeen)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaleesMoeen&layout=compact)](https://github.com/JaleesMoeen)
