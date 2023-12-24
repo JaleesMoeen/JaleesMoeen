@@ -6,15 +6,18 @@
 
 ## Welcome to Data Science with Jalees
 
-Meet up with myself Jalees Moeen, and I'm delighted to share my journey with you. After exploring various fields, I have found my true passion in the world of data. Over the past few months have been deeply immersed in this exciting field, expanding my knowledge by learning new tools and techniques such as Python, SQL, and Machine Learning. I am enrolled in University of Toronto Data Analytics Bootcamp, where I am  gaining hands-on experience and building projects that showcase my skills and I cannot wait to see where this journey takes me. I'm excited to share my progress with you, and thank you for stopping by my page.
+Hey there, it's Jalees Moeen! Excited to chat about my journey. I've wandered through different fields, but guess what? I've found my sweet spot in the data world. Lately, I've been diving deep into this fascinating realm, picking up cool skills like Python, SQL, and Machine Learning. Right now, I'm knee-deep in the University of Toronto Data Analytics Bootcamp, getting my hands dirty with projects that really show off what I can do. Can't wait to keep you posted on how it all unfolds. Thanks for swinging by!
 
 
-- 🔭 I’m currently working on some Web Scraping and Data Visualizations.
-- 🌱 I’m currently learning more about Tablaeu.
-- 🌟 Got something on your mind? Whether it's about data, tech, or just a friendly hello, I'm all ears! Shoot me an email at jaleesmoeen125@gmail.com, and let's make some tech magic happen together! 
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: Long walks give me an opportunity for introspection In addition to being a data analyst, I'm also a wanderer! I love to walk and explore new places. You can see some photgraphs and reels here >> https://www.tiktok.com/@jaleesmoeen?is_from_webapp=1&sender_device=pc
+🔭 Currently immersed in the world of Web Scraping and Data Visualizations.
 
+🌱 Exploring the depths of Tableau for continuous learning.
+
+🌟 Have something on your mind? Whether it's data, tech, or just a friendly hello, I'm all ears! Drop me an email at jaleesmoeen125@gmail.com, and let's create some tech magic together!
+
+😄 Pronouns: He/Him.
+
+⚡ Fun fact: Beyond being a data analyst, I'm a passionate wanderer! I find solace in long walks, providing a perfect opportunity for introspection. Check out snapshots and reels of my explorations here >> https://www.tiktok.com/@jaleesmoeen?is_from_webapp=1&sender_device=pc
 
 
 ## 🛠️ Tools of the Trade
