@@ -6,8 +6,9 @@
 
 ## Welcome to Data Science with Jalees
 
-Hey there, it's Jalees Moeen! Excited to chat about my journey. I've wandered through different fields, but guess what? I've found my sweet spot in the data world. Lately, I've been diving deep into this fascinating realm, picking up cool skills like Python, SQL, and Machine Learning. Right now, I'm knee-deep in the University of Toronto Data Analytics Bootcamp, getting my hands dirty with projects that really show off what I can do. Can't wait to keep you posted on how it all unfolds. Thanks for swinging by!
+Hey there, it's Jalees Moeen! Excited to chat about my journey. I've wandered through different fields, but guess what? I've found my sweet spot in the data world. Lately, I've been diving deep into this fascinating realm, picking up cool skills like Python, SQL, and Machine Learning. I'm getting my hands dirty with projects that really show off what I can do. Can't wait to keep you posted on how it all unfolds. Thanks for swinging by!
 
+My professional experience includes over two years as a Data Analyst at Toyota Motor Corporation and several months as a Marketing Analyst at The Grand Atrium.
 
 🔭 Currently, I'm navigating the dynamic landscape of Predictive Data Analytics, orchestrating insights that pave the way for informed decision-making.
 
