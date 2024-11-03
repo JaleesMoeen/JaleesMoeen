@@ -8,7 +8,8 @@
 
 Hey there, it's Jalees Moeen! 
 
-My professional experience includes over two years as a IT Analyst at Toyota Motor Corporation and several months as a It Support Execuitve at The Grand Atrium.
+
+My professional experience includes over two years as a IT Analyst at Toyota Motor Corporation and several months as a IT Support Execuitve at The Grand Atrium.
 
 🌟 Got thoughts to share? Whether it's data, tech, or just a friendly hello, my inbox is wide open! Drop me a line at jaleesmoeen125@gmail.com, and let's conjure up some tech magic together!
 
