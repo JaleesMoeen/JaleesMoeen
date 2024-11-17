@@ -1,6 +1,6 @@
 
 
-![AI](<images/Picture 1 AI.png>)
+![AI](<images/Toronto.jpg>)
 
 ## Hello 👋
 
